@@ -11,4 +11,7 @@ Some general insights...
 4. By degault, express uses jade as a view engine. jade has now been changed to pug. We are using ejs here.
 
 5. Routing
+6. Testing (JEST for js code and for SUPERTEST for html responses )
 
+7. ES LINT
+run "npm info "eslint-config-airbnb" peerDependencies" first
